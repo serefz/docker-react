@@ -12,7 +12,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
           {/* To get started, edit <code>src/App.js</code> and save to reload. */}
-          This is my first React anugularjs program using Docker with linked volumes!
+          React anugularjs program on Docker from Github Feature Branch!
         </p>
       </div>
     );
